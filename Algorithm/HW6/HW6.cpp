@@ -1,3 +1,7 @@
+// 강의 Slide chapter 25
+// Blog: https://charles098.tistory.com/11
+// Blog: https://yabmoons.tistory.com/364
+
 #include <iostream>
 #include <vector>
 #include <fstream>
